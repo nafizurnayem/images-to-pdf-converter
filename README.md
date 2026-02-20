@@ -19,7 +19,7 @@ A lightweight Python utility that converts a collection of images into a single 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/images-to-pdf-converter.git
+   git clone https://github.com/nafizurnayem/images-to-pdf-converter.git
    cd images-to-pdf-converter
    ```
 
